@@ -1,0 +1,15 @@
+p {
+    background-color: #fabebe;
+    font-family: "Verdana", "DejaVu Sans", "serif";
+}
+.cooler {
+    font-size: 24px;
+}
+#number2 {
+    color: rgb(7, 0, 210);
+    font-size: 36px;
+}
+#number4 {
+    background-color: #19f600;
+    font-weight: bold;
+}
